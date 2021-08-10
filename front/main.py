@@ -82,6 +82,7 @@ Button(calc, text='ln', width=6, height=1, font=('arial', 16, 'bold'), bd=4, fg=
 Button(calc, text='log2', width=6, height=1, font=('arial', 16, 'bold'), bd=4, fg='white', bg="gray20", command=res.log2).grid(row=9, column=2, pady=1)
 Button(calc, text='x²', width=6, height=1, font=('arial', 16, 'bold'), bd=4, fg='white', bg="gray20", command=res.carre).grid(row=9, column=3, pady=1)
 
+
 #//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
